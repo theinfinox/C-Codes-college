@@ -1,12 +1,12 @@
 #include<stdio.h>
 #include<conio.h>
+#include<math.h>
 void main(){
-    float r;
+    float ra,a,p=3.1415;
     printf("Enter the radius : ");
-    scanf("%f",&r);
-    int b = r*r;
-    float a = 3.1415*b;
+    scanf("%f",&ra);
+    a = p*ra*ra;
     printf("%f", a);
 
-
+    
 }
