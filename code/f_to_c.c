@@ -8,13 +8,13 @@ void main(){
     printf("Enter C: ");
     scanf("%f",&c);
     f=(c*9/5)+32;
-    printf("Converted value is %f",f);
+    printf("Converted value is %f \n",f);
     }
     if(a==2){
     printf("Enter F: ");
     scanf("%f",&f);
     c=(f-32)*5/9;
-    printf("Converted value is %f",c);
+    printf("Converted value is %f \n",c);
     }
 
     
