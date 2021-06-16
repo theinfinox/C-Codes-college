@@ -24,4 +24,5 @@ int main(){
   else{
     printf("incorrect format\n");
   }
+return 0;
 }
